@@ -1,0 +1,285 @@
+body{
+	background-image: url("imagens/059.jpg");
+	background-attachment: fixed;
+	background-position: center 40%;
+	margin: 0px;
+	padding: 0px;
+}
+
+img{
+	width:760px;
+	margin:20px;  	
+}
+
+h2{
+	text-align:center;
+	font-family: helvetica, sans-serif;
+	color: black;
+}
+
+h1{
+	text-align:center;
+	font-family: helvetica, sans-serif;	
+	color: #2176FF;
+}
+
+a{
+	color:#FFE900; 
+	text-decoration:none;
+	font-family: helvetica, sans-serif;
+}
+
+h3{
+	font-size:20px;
+	text-align:right;
+	font-family: helvetica, sans-serif;
+	color: #2176FF;	
+}
+
+h4{
+	font-family: helvetica, sans-serif;
+	font-size:30px;
+	text-align: center;
+	margin: 10px;
+	color: #2176FF;	
+}
+
+p{
+	font-family: helvetica, sans-serif;
+	line-height: 1.5;
+	text-indent: 30px;
+	color: black;
+	font-size: 12pt;
+}
+
+li{
+	font-family: helvetica, sans-serif;
+	line-height: 1.5;
+	color: black;
+	font-size: 12pt;
+}
+
+footer{
+	font-family: helvetica, sans-serif;
+	text-align:center;
+}
+
+/*simos*/
+#divisao0{
+	width:800px;
+	height:2310px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+/*logo*/
+.divisao1{
+	height:180px;
+	width:95.5%; 
+	background-color:#FFE900; 
+	font-size:30px;
+	border: solid 4px #2176FF;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	padding:30px;
+	text-align:justify;
+	margin:0 auto;
+	opacity: 0.8;
+}
+
+
+#divisao2{
+	height:450px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+#divisao3{
+	height:1260px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+#divisao4{
+	height:2920px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+#divisao5{
+	height:2820px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+#divisao6{
+	height:1720px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+#divisao7{
+	height:1470px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+#divisao8{
+	height:1550px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+}
+
+#divisao9{
+	height:650px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+
+}
+
+/*sismógrafo*/
+#divisao10{
+	height:1400px;
+	width:800px;
+	background-color: #09F;
+	border: solid 5px #2176FF;
+	border-radius: 10px;
+	padding:30px;
+	text-align:justify;
+	margin:80px auto;
+	opacity: 0.9;
+
+}
+
+/*menu*/
+.divisaonav{
+	height:110px;
+	width:95.5%; 
+	background-color:#FFE900; 
+	font-size:30px;
+	border: solid 4px #2176FF;
+	border-left: none;
+	border-right: none;
+	padding:30px;
+	text-align:justify;
+	margin:0 auto;
+	opacity: 0.8;
+}
+
+.leg{
+	font-style: italic;
+}
+
+.imagem{
+	width:400px;
+	position:relative;
+		left:37%;
+		margin-left:-110px;
+		margin-top:20px;
+}
+
+.logo{
+	width:110px;
+	position:absolute;
+		left:80%;
+		margin-left:-110px;
+		margin-top:-130px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #E0E1DD;
+    color: #E53D00;
+    padding: 16px 29px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    opacity: 0.9;
+    border-radius:10px;
+    margin-top: 15px;
+    margin-left: 28px;
+    border: double 2px;
+    border-color: #E53D00;
+
+}
+
+.button:hover{
+	background-color: #FF4300;
+	color:#E0E1DD;
+	transition-duration: 1s; 
+}
+
+#geoide{
+	width: 300px;
+	position: relative;
+		left: 28%;
+	
+}
+
+#sis{
+	width: 345px;
+	height: 260px;
+	position: relative;
+		left: 23%;
+}
+
+#onda{
+	width: 166px;
+	height: 105px;
+	position: relative;
+		left: 35%;
+}
