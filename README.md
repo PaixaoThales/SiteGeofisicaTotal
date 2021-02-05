@@ -1,2 +1,2 @@
 # SiteGeofisicaTotal
- Site criando com o intuito de informar sobre geofísica.
+ Site criado com o intuito de informar sobre geofísica.
